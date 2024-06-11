@@ -8,7 +8,7 @@ An online learning platform.
 - [X] Instructors can create courses 
 - [X] CRUD Operations on Students, Instructors, Courses
 - [ ] Redis Caching
-- [ ] Dockerise Application
+- [X] Dockerise Application
 - [ ] Discussion Forum/ Live Chat
 - [ ] Payments
 - [ ] Quizzes
