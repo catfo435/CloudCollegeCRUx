@@ -13,8 +13,9 @@ An online learning platform.
 - [ ] Payments
 - [ ] Quizzes
   
+
   #### Front End
-  - [ ] Home Page
+  - [X] Home Page
   - [X] Login Page
   - [X] Dashboard
   - [X] Course Page
